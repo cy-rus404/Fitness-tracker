@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fitness-tracker-app.git
+git clone https://github.com/cy-rus404/fitness-tracker.git
 cd fitness-tracker-app
 Install dependencies:
 
